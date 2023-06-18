@@ -1,0 +1,7 @@
+-- My answers to Chinook DB questions: https://github.com/joshualloyd/chinook-sqlite
+
+-- Query 9
+-- Looking at the InvoiceLine table, provide a query that COUNTs the number of line items for Invoice ID 37.
+SELECT COUNT(*) AS NumberOfLineItems 
+FROM InvoiceLine 
+WHERE InvoiceId = 37;

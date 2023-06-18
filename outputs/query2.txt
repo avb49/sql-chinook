@@ -1,0 +1,7 @@
+CustomerId  FullName         Country
+----------  ---------------  -------
+1           Luís Gonçalves   Brazil 
+10          Eduardo Martins  Brazil 
+11          Alexandre Rocha  Brazil 
+12          Roberto Almeida  Brazil 
+13          Fernanda Ramos   Brazil 

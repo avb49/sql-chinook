@@ -1,0 +1,414 @@
+InvoiceId  CustomerName           BillingCountry  EmployeeName   Total
+---------  ---------------------  --------------  -------------  -----
+6          Fynn Zimmermann        Germany         Jane Peacock   0.99 
+7          Niklas Schröder        Germany         Jane Peacock   1.98 
+9          Wyatt Girard           France          Jane Peacock   3.96 
+10         Hugh O'Reilly          Ireland         Jane Peacock   5.94 
+11         Emma Jones             United Kingdom  Jane Peacock   8.91 
+15         Tim Goyer              USA             Jane Peacock   1.98 
+23         Puja Srivastava        India           Jane Peacock   3.96 
+26         Tim Goyer              USA             Jane Peacock   13.86
+27         Ellie Sullivan         Canada          Jane Peacock   0.99 
+30         Niklas Schröder        Germany         Jane Peacock   3.96 
+31         Wyatt Girard           France          Jane Peacock   5.94 
+34         Roberto Almeida        Brazil          Jane Peacock   0.99 
+36         Jennifer Peterson      Canada          Jane Peacock   1.98 
+43         Phil Hughes            United Kingdom  Jane Peacock   1.98 
+45         Puja Srivastava        India           Jane Peacock   5.94 
+47         Jennifer Peterson      Canada          Jane Peacock   13.86
+48         Robert Brown           Canada          Jane Peacock   0.99 
+49         Edward Francis         Canada          Jane Peacock   1.98 
+52         Niklas Schröder        Germany         Jane Peacock   5.94 
+53         Terhi Hämäläinen       Finland         Jane Peacock   8.91 
+54         Phil Hughes            United Kingdom  Jane Peacock   13.86
+62         Hugh O'Reilly          Ireland         Jane Peacock   0.99 
+72         Edward Francis         Canada          Jane Peacock   3.96 
+81         Tim Goyer              USA             Jane Peacock   8.91 
+83         Wyatt Girard           France          Jane Peacock   0.99 
+84         Isabelle Mercier       France          Jane Peacock   1.98 
+85         Ladislav Kovács        Hungary         Jane Peacock   1.98 
+92         Frank Ralston          USA             Jane Peacock   1.98 
+94         Edward Francis         Canada          Jane Peacock   5.94 
+96         Ladislav Kovács        Hungary         Jane Peacock   21.86
+97         Puja Srivastava        India           Jane Peacock   1.99 
+98         Luís Gonçalves         Brazil          Jane Peacock   3.98 
+99         François Tremblay      Canada          Jane Peacock   3.98 
+102        Jennifer Peterson      Canada          Jane Peacock   9.91 
+103        Frank Ralston          USA             Jane Peacock   15.86
+104        Niklas Schröder        Germany         Jane Peacock   0.99 
+107        Isabelle Mercier       France          Jane Peacock   3.96 
+109        Phil Hughes            United Kingdom  Jane Peacock   8.91 
+110        François Tremblay      Canada          Jane Peacock   13.86
+112        Michelle Brooks        USA             Jane Peacock   1.98 
+120        Manoj Pareek           India           Jane Peacock   1.98 
+121        Luís Gonçalves         Brazil          Jane Peacock   3.96 
+127        Fynn Zimmermann        Germany         Jane Peacock   1.98 
+129        Isabelle Mercier       France          Jane Peacock   5.94 
+131        Manoj Pareek           India           Jane Peacock   13.86
+135        Michelle Brooks        USA             Jane Peacock   3.96 
+138        Fynn Zimmermann        Germany         Jane Peacock   13.86
+140        Emma Jones             United Kingdom  Jane Peacock   1.98 
+143        Luís Gonçalves         Brazil          Jane Peacock   5.94 
+146        Edward Francis         Canada          Jane Peacock   0.99 
+148        Ellie Sullivan         Canada          Jane Peacock   1.98 
+151        Ladislav Kovács        Hungary         Jane Peacock   8.91 
+155        Roberto Almeida        Brazil          Jane Peacock   1.98 
+157        Michelle Brooks        USA             Jane Peacock   5.94 
+158        Frank Ralston          USA             Jane Peacock   8.91 
+159        Ellie Sullivan         Canada          Jane Peacock   13.86
+163        Emma Jones             United Kingdom  Jane Peacock   3.96 
+165        François Tremblay      Canada          Jane Peacock   8.91 
+166        Roberto Almeida        Brazil          Jane Peacock   13.86
+169        Robert Brown           Canada          Jane Peacock   1.98 
+180        Robert Brown           Canada          Jane Peacock   13.86
+181        Isabelle Mercier       France          Jane Peacock   0.99 
+182        Terhi Hämäläinen       Finland         Jane Peacock   1.98 
+183        Hugh O'Reilly          Ireland         Jane Peacock   1.98 
+185        Emma Jones             United Kingdom  Jane Peacock   5.94 
+186        Manoj Pareek           India           Jane Peacock   8.91 
+193        Fynn Zimmermann        Germany         Jane Peacock   14.91
+194        Hugh O'Reilly          Ireland         Jane Peacock   21.86
+195        Luís Gonçalves         Brazil          Jane Peacock   0.99 
+204        Wyatt Girard           France          Jane Peacock   3.98 
+205        Terhi Hämäläinen       Finland         Jane Peacock   7.96 
+209        Michelle Brooks        USA             Jane Peacock   0.99 
+210        Tim Goyer              USA             Jane Peacock   1.98 
+214        Ellie Sullivan         Canada          Jane Peacock   8.91 
+215        Wyatt Girard           France          Jane Peacock   13.86
+218        Puja Srivastava        India           Jane Peacock   1.98 
+221        Roberto Almeida        Brazil          Jane Peacock   8.91 
+225        Niklas Schröder        Germany         Jane Peacock   1.98 
+227        Terhi Hämäläinen       Finland         Jane Peacock   5.94 
+229        Puja Srivastava        India           Jane Peacock   13.86
+231        Jennifer Peterson      Canada          Jane Peacock   1.98 
+233        Tim Goyer              USA             Jane Peacock   3.96 
+235        Robert Brown           Canada          Jane Peacock   8.91 
+236        Niklas Schröder        Germany         Jane Peacock   13.86
+237        Emma Jones             United Kingdom  Jane Peacock   0.99 
+238        Phil Hughes            United Kingdom  Jane Peacock   1.98 
+249        Hugh O'Reilly          Ireland         Jane Peacock   8.91 
+254        Jennifer Peterson      Canada          Jane Peacock   3.96 
+255        Tim Goyer              USA             Jane Peacock   5.94 
+261        Phil Hughes            United Kingdom  Jane Peacock   3.96 
+267        Edward Francis         Canada          Jane Peacock   1.98 
+270        Wyatt Girard           France          Jane Peacock   8.91 
+276        Jennifer Peterson      Canada          Jane Peacock   5.94 
+278        Edward Francis         Canada          Jane Peacock   13.86
+279        Terhi Hämäläinen       Finland         Jane Peacock   0.99 
+280        Ladislav Kovács        Hungary         Jane Peacock   1.98 
+283        Phil Hughes            United Kingdom  Jane Peacock   5.94 
+284        Puja Srivastava        India           Jane Peacock   8.91 
+287        Frank Ralston          USA             Jane Peacock   1.98 
+291        Niklas Schröder        Germany         Jane Peacock   8.91 
+294        François Tremblay      Canada          Jane Peacock   1.98 
+302        Isabelle Mercier       France          Jane Peacock   1.98 
+303        Ladislav Kovács        Hungary         Jane Peacock   3.96 
+307        Tim Goyer              USA             Jane Peacock   1.99 
+310        Frank Ralston          USA             Jane Peacock   7.96 
+313        Isabelle Mercier       France          Jane Peacock   16.86
+315        Manoj Pareek           India           Jane Peacock   1.98 
+316        Luís Gonçalves         Brazil          Jane Peacock   1.98 
+317        François Tremblay      Canada          Jane Peacock   3.96 
+322        Fynn Zimmermann        Germany         Jane Peacock   1.98 
+325        Ladislav Kovács        Hungary         Jane Peacock   5.94 
+327        Luís Gonçalves         Brazil          Jane Peacock   13.86
+328        Jennifer Peterson      Canada          Jane Peacock   0.99 
+330        Michelle Brooks        USA             Jane Peacock   1.98 
+332        Frank Ralston          USA             Jane Peacock   5.94 
+333        Edward Francis         Canada          Jane Peacock   8.91 
+335        Phil Hughes            United Kingdom  Jane Peacock   0.99 
+338        Manoj Pareek           India           Jane Peacock   3.96 
+339        François Tremblay      Canada          Jane Peacock   5.94 
+341        Michelle Brooks        USA             Jane Peacock   13.86
+343        Ellie Sullivan         Canada          Jane Peacock   1.98 
+345        Fynn Zimmermann        Germany         Jane Peacock   3.96 
+350        Roberto Almeida        Brazil          Jane Peacock   1.98 
+358        Emma Jones             United Kingdom  Jane Peacock   1.98 
+360        Manoj Pareek           India           Jane Peacock   5.94 
+364        Robert Brown           Canada          Jane Peacock   1.98 
+366        Ellie Sullivan         Canada          Jane Peacock   3.96 
+367        Fynn Zimmermann        Germany         Jane Peacock   5.94 
+368        Isabelle Mercier       France          Jane Peacock   8.91 
+369        Emma Jones             United Kingdom  Jane Peacock   13.86
+373        Roberto Almeida        Brazil          Jane Peacock   3.96 
+377        Ladislav Kovács        Hungary         Jane Peacock   0.99 
+378        Hugh O'Reilly          Ireland         Jane Peacock   1.98 
+382        Luís Gonçalves         Brazil          Jane Peacock   8.91 
+384        Frank Ralston          USA             Jane Peacock   0.99 
+387        Robert Brown           Canada          Jane Peacock   3.96 
+388        Ellie Sullivan         Canada          Jane Peacock   5.94 
+391        François Tremblay      Canada          Jane Peacock   0.99 
+395        Roberto Almeida        Brazil          Jane Peacock   5.94 
+396        Michelle Brooks        USA             Jane Peacock   8.91 
+399        Wyatt Girard           France          Jane Peacock   1.98 
+400        Terhi Hämäläinen       Finland         Jane Peacock   1.98 
+401        Hugh O'Reilly          Ireland         Jane Peacock   3.96 
+409        Robert Brown           Canada          Jane Peacock   5.94 
+411        Terhi Hämäläinen       Finland         Jane Peacock   13.86
+412        Manoj Pareek           India           Jane Peacock   1.99 
+2          Bjørn Hansen           Norway          Margaret Park  3.96 
+3          Daan Peeters           Belgium         Margaret Park  5.94 
+5          John Gordon            USA             Margaret Park  13.86
+8          Dominique Lefebvre     France          Margaret Park  1.98 
+13         Frank Harris           USA             Margaret Park  0.99 
+19         Dominique Lefebvre     France          Margaret Park  13.86
+21         Mark Taylor            Australia       Margaret Park  1.98 
+24         Bjørn Hansen           Norway          Margaret Park  5.94 
+25         Eduardo Martins        Brazil          Margaret Park  8.91 
+28         João Fernandes         Portugal        Margaret Park  1.98 
+35         Fernanda Ramos         Brazil          Margaret Park  1.98 
+39         Patrick Gray           USA             Margaret Park  8.91 
+44         Mark Taylor            Australia       Margaret Park  3.96 
+50         Aaron Mitchell         Canada          Margaret Park  1.98 
+51         João Fernandes         Portugal        Margaret Park  3.96 
+55         Daan Peeters           Belgium         Margaret Park  0.99 
+56         Kara Nielsen           Denmark         Margaret Park  1.98 
+58         Fernanda Ramos         Brazil          Margaret Park  3.96 
+60         John Gordon            USA             Margaret Park  8.91 
+61         Aaron Mitchell         Canada          Margaret Park  13.86
+64         Stanisław Wójcik       Poland          Margaret Park  1.98 
+66         Mark Taylor            Australia       Margaret Park  5.94 
+70         Richard Cunningham     USA             Margaret Park  1.98 
+73         João Fernandes         Portugal        Margaret Park  5.94 
+74         Dominique Lefebvre     France          Margaret Park  8.91 
+75         Stanisław Wójcik       Poland          Margaret Park  13.86
+76         Bjørn Hansen           Norway          Margaret Park  0.99 
+77         František Wichterlová  Czech Republic  Margaret Park  1.98 
+79         Kara Nielsen           Denmark         Margaret Park  3.96 
+80         Fernanda Ramos         Brazil          Margaret Park  5.94 
+91         Heather Leacock        USA             Margaret Park  1.98 
+93         Richard Cunningham     USA             Margaret Park  3.96 
+100        František Wichterlová  Czech Republic  Margaret Park  3.96 
+101        Kara Nielsen           Denmark         Margaret Park  5.94 
+105        Camille Bernard        France          Margaret Park  1.98 
+113        Dan Miller             USA             Margaret Park  1.98 
+114        Heather Leacock        USA             Margaret Park  3.96 
+115        Richard Cunningham     USA             Margaret Park  5.94 
+116        Aaron Mitchell         Canada          Margaret Park  8.91 
+118        Mark Taylor            Australia       Margaret Park  0.99 
+119        Diego Gutiérrez        Argentina       Margaret Park  1.98 
+122        František Wichterlová  Czech Republic  Margaret Park  5.94 
+124        Dan Miller             USA             Margaret Park  13.86
+125        João Fernandes         Portugal        Margaret Park  0.99 
+126        Madalena Sampaio       Portugal        Margaret Park  1.98 
+128        Camille Bernard        France          Margaret Park  3.96 
+130        Stanisław Wójcik       Poland          Margaret Park  8.91 
+132        Fernanda Ramos         Brazil          Margaret Park  0.99 
+134        Frank Harris           USA             Margaret Park  1.98 
+136        Heather Leacock        USA             Margaret Park  5.94 
+142        Diego Gutiérrez        Argentina       Margaret Park  3.96 
+145        Frank Harris           USA             Margaret Park  13.86
+149        Madalena Sampaio       Portugal        Margaret Park  3.96 
+150        Camille Bernard        France          Margaret Park  5.94 
+153        Kara Nielsen           Denmark         Margaret Park  0.99 
+154        Eduardo Martins        Brazil          Margaret Park  1.98 
+164        Diego Gutiérrez        Argentina       Margaret Park  5.94 
+167        Richard Cunningham     USA             Margaret Park  0.99 
+168        Patrick Gray           USA             Margaret Park  1.98 
+171        Madalena Sampaio       Portugal        Margaret Park  5.94 
+174        František Wichterlová  Czech Republic  Margaret Park  0.99 
+176        Daan Peeters           Belgium         Margaret Park  1.98 
+177        Eduardo Martins        Brazil          Margaret Park  3.96 
+179        Dan Miller             USA             Margaret Park  8.91 
+187        Daan Peeters           Belgium         Margaret Park  13.86
+188        Heather Leacock        USA             Margaret Park  0.99 
+189        John Gordon            USA             Margaret Park  1.98 
+191        Patrick Gray           USA             Margaret Park  3.96 
+197        Bjørn Hansen           Norway          Margaret Park  1.98 
+199        Eduardo Martins        Brazil          Margaret Park  5.94 
+200        Frank Harris           USA             Margaret Park  8.91 
+202        Camille Bernard        France          Margaret Park  1.99 
+203        Dominique Lefebvre     France          Margaret Park  2.98 
+208        Bjørn Hansen           Norway          Margaret Park  15.86
+212        John Gordon            USA             Margaret Park  3.96 
+213        Patrick Gray           USA             Margaret Park  5.94 
+216        Diego Gutiérrez        Argentina       Margaret Park  0.99 
+223        Madalena Sampaio       Portugal        Margaret Park  0.99 
+226        Dominique Lefebvre     France          Margaret Park  3.96 
+234        John Gordon            USA             Margaret Park  5.94 
+239        Mark Taylor            Australia       Margaret Park  1.98 
+242        Daan Peeters           Belgium         Margaret Park  8.91 
+245        Aaron Mitchell         Canada          Margaret Park  1.98 
+246        João Fernandes         Portugal        Margaret Park  1.98 
+248        Dominique Lefebvre     France          Margaret Park  5.94 
+250        Mark Taylor            Australia       Margaret Park  13.86
+251        Eduardo Martins        Brazil          Margaret Park  0.99 
+253        Fernanda Ramos         Brazil          Margaret Park  1.98 
+257        João Fernandes         Portugal        Margaret Park  13.86
+259        Stanisław Wójcik       Poland          Margaret Park  1.98 
+263        Bjørn Hansen           Norway          Margaret Park  8.91 
+264        Fernanda Ramos         Brazil          Margaret Park  13.86
+265        Patrick Gray           USA             Margaret Park  0.99 
+268        Aaron Mitchell         Canada          Margaret Park  3.96 
+274        Kara Nielsen           Denmark         Margaret Park  1.98 
+282        Stanisław Wójcik       Poland          Margaret Park  3.96 
+285        Kara Nielsen           Denmark         Margaret Park  13.86
+286        John Gordon            USA             Margaret Park  0.99 
+288        Richard Cunningham     USA             Margaret Park  1.98 
+290        Aaron Mitchell         Canada          Margaret Park  5.94 
+295        František Wichterlová  Czech Republic  Margaret Park  1.98 
+299        Richard Cunningham     USA             Margaret Park  23.86
+300        Dominique Lefebvre     France          Margaret Park  0.99 
+304        Stanisław Wójcik       Poland          Margaret Park  5.94 
+305        Mark Taylor            Australia       Margaret Park  8.91 
+306        František Wichterlová  Czech Republic  Margaret Park  16.86
+308        Dan Miller             USA             Margaret Park  3.98 
+309        Heather Leacock        USA             Margaret Park  3.98 
+312        João Fernandes         Portugal        Margaret Park  10.91
+319        Fernanda Ramos         Brazil          Margaret Park  8.91 
+320        Heather Leacock        USA             Margaret Park  13.86
+323        Camille Bernard        France          Margaret Park  1.98 
+329        Frank Harris           USA             Margaret Park  1.98 
+331        Dan Miller             USA             Margaret Park  3.96 
+334        Camille Bernard        France          Margaret Park  13.86
+337        Diego Gutiérrez        Argentina       Margaret Park  1.98 
+340        Kara Nielsen           Denmark         Margaret Park  8.91 
+342        Aaron Mitchell         Canada          Margaret Park  0.99 
+344        Madalena Sampaio       Portugal        Margaret Park  1.98 
+348        Diego Gutiérrez        Argentina       Margaret Park  13.86
+352        Frank Harris           USA             Margaret Park  3.96 
+353        Dan Miller             USA             Margaret Park  5.94 
+354        Richard Cunningham     USA             Margaret Park  8.91 
+355        Madalena Sampaio       Portugal        Margaret Park  13.86
+356        Stanisław Wójcik       Poland          Margaret Park  0.99 
+361        František Wichterlová  Czech Republic  Margaret Park  8.91 
+371        Daan Peeters           Belgium         Margaret Park  1.98 
+372        Eduardo Martins        Brazil          Margaret Park  1.98 
+374        Frank Harris           USA             Margaret Park  5.94 
+375        Heather Leacock        USA             Margaret Park  8.91 
+383        Eduardo Martins        Brazil          Margaret Park  13.86
+386        Patrick Gray           USA             Margaret Park  1.98 
+389        Camille Bernard        France          Margaret Park  8.91 
+392        Bjørn Hansen           Norway          Margaret Park  1.98 
+394        Daan Peeters           Belgium         Margaret Park  3.96 
+397        Patrick Gray           USA             Margaret Park  13.86
+403        Diego Gutiérrez        Argentina       Margaret Park  8.91 
+405        Dan Miller             USA             Margaret Park  0.99 
+407        John Gordon            USA             Margaret Park  1.98 
+410        Madalena Sampaio       Portugal        Margaret Park  8.91 
+1          Leonie Köhler          Germany         Steve Johnson  1.98 
+4          Mark Philips           Canada          Steve Johnson  8.91 
+12         Leonie Köhler          Germany         Steve Johnson  13.86
+14         Jack Smith             USA             Steve Johnson  1.98 
+16         Kathy Chase            USA             Steve Johnson  3.96 
+17         Victor Stevens         USA             Steve Johnson  5.94 
+18         Martha Silk            Canada          Steve Johnson  8.91 
+20         Steve Murray           United Kingdom  Steve Johnson  0.99 
+22         Luis Rojas             Chile           Steve Johnson  1.98 
+29         Hannah Schneider       Germany         Steve Johnson  1.98 
+32         Johannes Van der Berg  Netherlands     Steve Johnson  8.91 
+33         Luis Rojas             Chile           Steve Johnson  13.86
+37         Jack Smith             USA             Steve Johnson  3.96 
+38         Kathy Chase            USA             Steve Johnson  5.94 
+40         Hannah Schneider       Germany         Steve Johnson  13.86
+41         Enrique Muñoz          Spain           Steve Johnson  0.99 
+42         Joakim Johansson       Sweden          Steve Johnson  1.98 
+46         Helena Holý            Czech Republic  Steve Johnson  8.91 
+57         Alexandre Rocha        Brazil          Steve Johnson  1.98 
+59         Jack Smith             USA             Steve Johnson  5.94 
+63         Lucas Mancini          Italy           Steve Johnson  1.98 
+65         Joakim Johansson       Sweden          Steve Johnson  3.96 
+67         Leonie Köhler          Germany         Steve Johnson  8.91 
+68         Alexandre Rocha        Brazil          Steve Johnson  13.86
+69         Victor Stevens         USA             Steve Johnson  0.99 
+71         Julia Barnett          USA             Steve Johnson  1.98 
+78         Astrid Gruber          Austria         Steve Johnson  1.98 
+82         Julia Barnett          USA             Steve Johnson  13.86
+86         Lucas Mancini          Italy           Steve Johnson  3.96 
+87         Joakim Johansson       Sweden          Steve Johnson  6.94 
+88         Luis Rojas             Chile           Steve Johnson  17.91
+89         Astrid Gruber          Austria         Steve Johnson  18.86
+90         Kathy Chase            USA             Steve Johnson  0.99 
+95         Hannah Schneider       Germany         Steve Johnson  8.91 
+106        Marc Dubois            France          Steve Johnson  1.98 
+108        Lucas Mancini          Italy           Steve Johnson  5.94 
+111        Jack Smith             USA             Steve Johnson  0.99 
+117        Marc Dubois            France          Steve Johnson  13.86
+123        Alexandre Rocha        Brazil          Steve Johnson  8.91 
+133        Mark Philips           Canada          Steve Johnson  1.98 
+137        Julia Barnett          USA             Steve Johnson  8.91 
+139        Joakim Johansson       Sweden          Steve Johnson  0.99 
+141        Steve Murray           United Kingdom  Steve Johnson  1.98 
+144        Astrid Gruber          Austria         Steve Johnson  8.91 
+147        Martha Silk            Canada          Steve Johnson  1.98 
+152        Steve Murray           United Kingdom  Steve Johnson  13.86
+156        Mark Philips           Canada          Steve Johnson  3.96 
+160        Lucas Mancini          Italy           Steve Johnson  0.99 
+161        Johannes Van der Berg  Netherlands     Steve Johnson  1.98 
+162        Enrique Muñoz          Spain           Steve Johnson  1.98 
+170        Martha Silk            Canada          Steve Johnson  3.96 
+172        Marc Dubois            France          Steve Johnson  8.91 
+173        Enrique Muñoz          Spain           Steve Johnson  13.86
+175        Helena Holý            Czech Republic  Steve Johnson  1.98 
+178        Mark Philips           Canada          Steve Johnson  5.94 
+184        Johannes Van der Berg  Netherlands     Steve Johnson  3.96 
+190        Victor Stevens         USA             Steve Johnson  1.98 
+192        Martha Silk            Canada          Steve Johnson  5.94 
+196        Leonie Köhler          Germany         Steve Johnson  1.98 
+198        Helena Holý            Czech Republic  Steve Johnson  3.96 
+201        Victor Stevens         USA             Steve Johnson  18.86
+206        Johannes Van der Berg  Netherlands     Steve Johnson  8.94 
+207        Steve Murray           United Kingdom  Steve Johnson  8.91 
+211        Kathy Chase            USA             Steve Johnson  1.98 
+217        Luis Rojas             Chile           Steve Johnson  1.98 
+219        Leonie Köhler          Germany         Steve Johnson  3.96 
+220        Helena Holý            Czech Republic  Steve Johnson  5.94 
+222        Kathy Chase            USA             Steve Johnson  13.86
+224        Hannah Schneider       Germany         Steve Johnson  1.98 
+228        Enrique Muñoz          Spain           Steve Johnson  8.91 
+230        Mark Philips           Canada          Steve Johnson  0.99 
+232        Jack Smith             USA             Steve Johnson  1.98 
+240        Luis Rojas             Chile           Steve Johnson  3.96 
+241        Leonie Köhler          Germany         Steve Johnson  5.94 
+243        Jack Smith             USA             Steve Johnson  13.86
+244        Martha Silk            Canada          Steve Johnson  0.99 
+247        Hannah Schneider       Germany         Steve Johnson  3.96 
+252        Alexandre Rocha        Brazil          Steve Johnson  1.98 
+256        Victor Stevens         USA             Steve Johnson  8.91 
+258        Johannes Van der Berg  Netherlands     Steve Johnson  0.99 
+260        Joakim Johansson       Sweden          Steve Johnson  1.98 
+262        Luis Rojas             Chile           Steve Johnson  5.94 
+266        Julia Barnett          USA             Steve Johnson  1.98 
+269        Hannah Schneider       Germany         Steve Johnson  5.94 
+271        Joakim Johansson       Sweden          Steve Johnson  13.86
+272        Helena Holý            Czech Republic  Steve Johnson  0.99 
+273        Astrid Gruber          Austria         Steve Johnson  1.98 
+275        Alexandre Rocha        Brazil          Steve Johnson  3.96 
+277        Kathy Chase            USA             Steve Johnson  8.91 
+281        Lucas Mancini          Italy           Steve Johnson  1.98 
+289        Julia Barnett          USA             Steve Johnson  3.96 
+292        Lucas Mancini          Italy           Steve Johnson  13.86
+293        Leonie Köhler          Germany         Steve Johnson  0.99 
+296        Astrid Gruber          Austria         Steve Johnson  3.96 
+297        Alexandre Rocha        Brazil          Steve Johnson  5.94 
+298        Jack Smith             USA             Steve Johnson  10.91
+301        Marc Dubois            France          Steve Johnson  1.98 
+311        Julia Barnett          USA             Steve Johnson  11.94
+314        Luis Rojas             Chile           Steve Johnson  0.99 
+318        Astrid Gruber          Austria         Steve Johnson  5.94 
+321        Hannah Schneider       Germany         Steve Johnson  0.99 
+324        Marc Dubois            France          Steve Johnson  3.96 
+326        Joakim Johansson       Sweden          Steve Johnson  8.91 
+336        Steve Murray           United Kingdom  Steve Johnson  1.98 
+346        Marc Dubois            France          Steve Johnson  5.94 
+347        Lucas Mancini          Italy           Steve Johnson  8.91 
+349        Alexandre Rocha        Brazil          Steve Johnson  0.99 
+351        Mark Philips           Canada          Steve Johnson  1.98 
+357        Enrique Muñoz          Spain           Steve Johnson  1.98 
+359        Steve Murray           United Kingdom  Steve Johnson  3.96 
+362        Mark Philips           Canada          Steve Johnson  13.86
+363        Julia Barnett          USA             Steve Johnson  0.99 
+365        Martha Silk            Canada          Steve Johnson  1.98 
+370        Astrid Gruber          Austria         Steve Johnson  0.99 
+376        Martha Silk            Canada          Steve Johnson  13.86
+379        Johannes Van der Berg  Netherlands     Steve Johnson  1.98 
+380        Enrique Muñoz          Spain           Steve Johnson  3.96 
+381        Steve Murray           United Kingdom  Steve Johnson  5.94 
+385        Victor Stevens         USA             Steve Johnson  1.98 
+390        Johannes Van der Berg  Netherlands     Steve Johnson  13.86
+393        Helena Holý            Czech Republic  Steve Johnson  1.98 
+398        Marc Dubois            France          Steve Johnson  0.99 
+402        Enrique Muñoz          Spain           Steve Johnson  5.94 
+404        Helena Holý            Czech Republic  Steve Johnson  25.86
+406        Kathy Chase            USA             Steve Johnson  1.98 
+408        Victor Stevens         USA             Steve Johnson  3.96 
